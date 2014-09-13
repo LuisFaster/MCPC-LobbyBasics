@@ -1,0 +1,14 @@
+name: MCPC-LobbyBasics
+main: me.Fabricio20.Bukkit.Main
+version: 1.1
+author: Fabricio20
+description: Lobby Implements For The Lobby Server.
+commands:
+  hat:
+    description: Set your hat.
+  cplate:
+    description: Set your chestplate.
+  leggings:
+    description: Set your leggings.
+  boots:
+    description: Set your boots.
